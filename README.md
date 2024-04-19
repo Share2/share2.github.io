@@ -4,4 +4,8 @@
 
 
 ## Woodgrove Demo for B2C 
-https://github.com/Share2/woodgrove-groceries-demo 
+https://woodgrovedemo.com/ 
+  https://github.com/Share2/woodgrove-groceries-demo 
+
+https://woodgrovegroceries.net/
+  https://github.com/Share2/woodgrove-groceries-net 
