@@ -1,9 +1,11 @@
-# share2.github.io
-
-# share2.github.com 
+#ShareTwo on GitHub 
+-------------------------
+https://share2.github.io
+https://share2.github.com 
 
 
 ## Woodgrove Demo for B2C 
+------------------------------
 https://woodgrovedemo.com/ 
   https://github.com/Share2/woodgrove-groceries-demo 
 
